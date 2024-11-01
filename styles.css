@@ -34,7 +34,7 @@ button:hover{
 button::before {
     content: 'Feliz Hallowen Payasita del terror';
     position: absolute;
-    font-size: 3.5em;
+    font-size: 2.7em;
     z-index: -1;
     -webkit-text-stroke: 2px #fff;
     transform: scale(0);
