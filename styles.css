@@ -4,12 +4,15 @@
     padding: 0;
     font-family: "Eater", serif;
 }
-body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 90vh;
-    background: black;
+
+body {
+	background-image: radial-gradient(rgb(111, 111, 184), black 60%);
+	color: #f1f5f9;
+	min-height: 100svh;
+	display: grid;
+	place-content: center;
+	overflow: hidden;
+	font-family: system-ui, sans-serif;
 }
 
 button{
